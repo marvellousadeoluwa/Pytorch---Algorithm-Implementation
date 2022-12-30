@@ -13,16 +13,15 @@ Project Steps
 You can find the code for this project here.
 
 File overview:
-
-- linear_regression.ipynb - a Jupyter notebook that of implementation of Linear Regression algorithm using pytorch.
-- logistic_regression.ipynb - a Jupyter notebook that of implementation of Logistic Regression algorithm using pytorch.
+  - linear_regression.ipynb - a Jupyter notebook that of implementation of Linear Regression algorithm using pytorch.
+  - logistic_regression.ipynb - a Jupyter notebook that of implementation of Logistic Regression algorithm using pytorch.
 
 # Local Setup
 Installation
 To follow this project, please install the following locally:
 
-- JupyerLab
-- Python 3.8+
+- Jupyer Notebook
+- Python 3.7+
 - Python packages
   - numpy
   - scikit-learn
